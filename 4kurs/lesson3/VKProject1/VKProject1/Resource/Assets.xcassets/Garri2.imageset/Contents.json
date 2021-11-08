@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "57807-garri-potter-i-kubok-ognya-harry-potter-and-the-goblet-of-fire_0.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
